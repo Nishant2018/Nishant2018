@@ -9,3 +9,10 @@ I'm Nishant, a passionate data scientist and machine learning enthusiast. Here's
 - 📫 You can reach me via email at nishantraghuwanshi2018@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new hiking trails and experimenting with different cuisines in my free time!
+
+
+Languages and Tools:
+c | c++ | python | pandas | git
+
+Connect with me:
+kaggle | linkedin
