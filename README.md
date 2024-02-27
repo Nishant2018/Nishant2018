@@ -1,8 +1,5 @@
-<p align="center">
+<h1 align="center">Hi, I'm <em>Nishant</em> 👋</h1>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>># Hi, I'm *Nishant* 👋
-
-</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Nishant2018&color=blueviolet)
 
