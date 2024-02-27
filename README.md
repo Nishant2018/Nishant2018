@@ -21,7 +21,7 @@ I'm **Nishant**, a passionate **data scientist** and **machine learning enthusia
 [<img src="https://i.pinimg.com/originals/44/04/ba/4404baaea65f8ba3734d75388649588a.png" width="50">](#)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png" width="50">](#) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" width="50">](#) 
-[<img src="https://static.thenounproject.com/png/1927723-200.png" width="50">](#) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png" width="50">](#) 
 [<img src="https://p1.hiclipart.com/preview/507/698/448/big-data-machine-learning-deep-learning-with-python-artificial-intelligence-artificial-neural-network-computer-science-open-neural-network-exchange-computer-software-png-clipart.jpg" width="50">](#) 
 [<img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="50">](#)
 
