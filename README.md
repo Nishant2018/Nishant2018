@@ -24,4 +24,9 @@ I'm **Nishant**, a passionate **data scientist** and **machine learning enthusia
 [<img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="50">](#)
 
 ## **Connect with me:**  
-[kaggle](https://www.kaggle.com/endofnight17j03) | [linkedin](https://www.linkedin.com/in/nishant-raghuwanshi-1509a724a/)
+<p>
+    <a href="https://www.kaggle.com/endofnight17j03"><img src="https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/debbfb520588.png" width="50"></a> 
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/nishant-raghuwanshi-1509a724a/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="50"></a>
+</p>
+
