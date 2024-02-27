@@ -9,24 +9,29 @@ I'm **Nishant**, a passionate **data scientist** and **machine learning enthusia
 - 🌱 I’m currently learning advanced **natural language processing techniques**.
 - 👯 I’m looking to collaborate on projects related to **data science** and **machine learning**.
 - 💬 Ask me about anything related to **data science**, **Python programming**, or **machine learning**.
+- 🤍 Feel free to connect. Always up for networking and collaboration.
 - 📫 You can reach me via email at *nishantraghuwanshi2018@gmail.com*.
 - 🕊️ Send me a direct message at [Instagram](https://www.instagram.com/end_of_night.17j03/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new hiking trails and experimenting with different cuisines in my free time!
 
+
 ## **Languages and Tools:**
-[<img src="https://backendapi.iihtsrt.com/wp-content/uploads/2022/04/CPP.jpg" width="50">](#) 
+[<img src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png" width="50">](#) 
 [<img src="https://i.pinimg.com/originals/44/04/ba/4404baaea65f8ba3734d75388649588a.png" width="50">](#)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png" width="50">](#) 
-[<img src="https://i.pinimg.com/736x/28/ce/bf/28cebfa3c75ff7815999b0c81a826af6.jpg" width="50">](#) 
-[<img src="https://cdn3.vectorstock.com/i/1000x1000/47/52/creative-machine-learning-logo-artificial-vector-19204752.jpg" width="50">](#) 
-[<img src="https://techhubsolutions.in/wp-content/uploads/2020/05/deep-learning.jpg" width="50">](#) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" width="50">](#) 
+[<img src="https://static.thenounproject.com/png/1927723-200.png" width="50">](#) 
+[<img src="https://p1.hiclipart.com/preview/507/698/448/big-data-machine-learning-deep-learning-with-python-artificial-intelligence-artificial-neural-network-computer-science-open-neural-network-exchange-computer-software-png-clipart.jpg" width="50">](#) 
 [<img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="50">](#)
+
 
 ## **Connect with me:**  
 <p>
-    <a href="https://www.kaggle.com/endofnight17j03"><img src="https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/debbfb520588.png" width="50"></a> 
+    <a href="https://www.kaggle.com/endofnight17j03"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" width="50"></a> 
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/nishant-raghuwanshi-1509a724a/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="50"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/end_of_night"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/220px-Logo_of_Twitter.svg.png" width="50"></a>
 </p>
 
