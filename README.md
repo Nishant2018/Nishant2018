@@ -4,7 +4,10 @@
 
 I'm **Nishant**, a passionate **data scientist** and **machine learning enthusiast**. Here's a glimpse into my world:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nishant2018" alt="Nishant2018" /></a> 
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Nishant2018&theme=radical" alt="Nishant2018" />
+    </a>
 </p>
 
 - 🔭 I’m currently working on **Data Science**, **NLP**, **Deep Learning**.
@@ -30,20 +33,28 @@ I'm **Nishant**, a passionate **data scientist** and **machine learning enthusia
 [<img src="https://www.clipartmax.com/png/middle/112-1125431_google-releases-its-image-recognition-technology-to-tensorflow-logo.png" width="50">](#)
 [<img src="https://w7.pngwing.com/pngs/571/118/png-transparent-keras-logo-thumbnail.png" width="50">](#)
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant2018&layout=compact&langs_count=8&theme=dark" alt="khushi-shah-1" />
-</p>
-
 ## **GitHub Stats:**
-![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishant2018&show_icons=true&theme=dark)
-![Nishant's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nishant2018&theme=dark)
+![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishant2018&show_icons=true&theme=radical)
+![Nishant's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nishant2018&theme=radical)
 
 ## **Connect with me:**
 
 <p>
-    <a href="https://www.kaggle.com/endofnight17j03"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" width="50"></a> 
+    <a href="https://www.kaggle.com/endofnight17j03">
+        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" width="50">
+    </a> 
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/nishant-raghuwanshi-1509a724a/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="50"></a>
+    <a href="https://www.linkedin.com/in/nishant-raghuwanshi-1509a724a/">
+        <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="50">
+    </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/end_of_night"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/220px-Logo_of_Twitter.svg.png" width="50"></a>
+    <a href="https://twitter.com/end_of_night">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/220px-Logo_of_Twitter.svg.png" width="50">
+    </a>
+</p>
+
+---
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant2018&layout=compact&theme=radical" alt="Nishant's Top Languages" />
 </p>
