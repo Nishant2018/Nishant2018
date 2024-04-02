@@ -27,6 +27,7 @@ I'm **Nishant**, a passionate **data scientist** and **machine learning enthusia
 [<img src="https://cdn-icons-png.freepik.com/512/9831/9831342.png" width="50">](#)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" width="50">](#)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishant2018&show_icons=true&locale=en&layout=compact" alt="khushi-shah-1" /></p>
 
 ## **Connect with me:**  
 <p>
