@@ -29,8 +29,8 @@ I'm **Nishant**, a passionate **data scientist** and **machine learning enthusia
 [<img src="https://www.clipartmax.com/png/middle/112-1125431_google-releases-its-image-recognition-technology-to-tensorflow-logo.png" width="50">](#)
 [<img src="https://w7.pngwing.com/pngs/571/118/png-transparent-keras-logo-thumbnail.png" width="50">](#)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishant2018&show_icons=true&locale=en&layout=compact" alt="khushi-shah-1" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishant2018&show_icons=true&locale=en&layout=compact" alt="Nishant" /></p>
+<br>
 
 ## **Connect with me:**  
 <p>
