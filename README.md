@@ -26,6 +26,8 @@ I'm **Nishant**, a passionate **data scientist** and **machine learning enthusia
 [<img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="50">](#)
 [<img src="https://cdn-icons-png.freepik.com/512/9831/9831342.png" width="50">](#)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" width="50">](#)
+[<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png](https://www.clipartmax.com/png/middle/112-1125431_google-releases-its-image-recognition-technology-to-tensorflow-logo.png)" width="50">](#)
+[<img src="[https://cdn-icons-png.freepik.com/512/9831/9831342.png](https://w7.pngwing.com/pngs/571/118/png-transparent-keras-logo-thumbnail.png)" width="50">](#)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishant2018&show_icons=true&locale=en&layout=compact" alt="khushi-shah-1" /></p>
 
