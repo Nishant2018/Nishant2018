@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm <em>Nishant</em> 👋</h1>
 
-
 ![Profile views](https://komarev.com/ghpvc/?username=Nishant2018&color=blueviolet)
 
 I'm **Nishant**, a passionate **data scientist** and **machine learning enthusiast**. Here's a glimpse into my world:
@@ -18,7 +17,6 @@ I'm **Nishant**, a passionate **data scientist** and **machine learning enthusia
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new hiking trails and experimenting with different cuisines in my free time!
 
-
 ## **Languages and Tools:**
 [<img src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png" width="50">](#) 
 [<img src="https://i.pinimg.com/originals/44/04/ba/4404baaea65f8ba3734d75388649588a.png" width="50">](#)
@@ -33,8 +31,12 @@ I'm **Nishant**, a passionate **data scientist** and **machine learning enthusia
 [<img src="https://w7.pngwing.com/pngs/571/118/png-transparent-keras-logo-thumbnail.png" width="50">](#)
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishant2018&show_icons=true&locale=en&layout=compact" alt="khushi-shah-1" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant2018&layout=compact&langs_count=8&theme=dark" alt="khushi-shah-1" />
 </p>
+
+## **GitHub Stats:**
+![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishant2018&show_icons=true&theme=dark)
+![Nishant's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nishant2018&theme=dark)
 
 ## **Connect with me:**
 
@@ -45,4 +47,3 @@ I'm **Nishant**, a passionate **data scientist** and **machine learning enthusia
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/end_of_night"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/220px-Logo_of_Twitter.svg.png" width="50"></a>
 </p>
-
