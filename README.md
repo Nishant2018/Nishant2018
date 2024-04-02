@@ -5,6 +5,9 @@
 
 I'm **Nishant**, a passionate **data scientist** and **machine learning enthusiast**. Here's a glimpse into my world:
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nishant2018" alt="Nishant2018" /></a> 
+</p>
+
 - 🔭 I’m currently working on **Data Science**, **NLP**, **Deep Learning**.
 - 🌱 I’m currently learning advanced **natural language processing techniques**.
 - 👯 I’m looking to collaborate on projects related to **data science** and **machine learning**.
