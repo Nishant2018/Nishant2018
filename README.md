@@ -69,24 +69,32 @@ who loves building intelligent systems using data, algorithms, and creativity.
 <tr>
 <td width="50%">
 
-### 🔹 Sentiment Analysis (NLP)
-- Text preprocessing  
-- ML & DL models  
-- Real-world datasets  
+### 🤖 Masked Language Model – BERT
+**Public**
 
-![Python](https://img.shields.io/badge/Python-blue)
+This project demonstrates the use of a **BERT-based Masked Language Model (MLM)** to predict masked tokens in text.  
+It focuses on understanding contextual word representations using transformer architectures.
+
+**Tech Stack:** BERT · Transformers · NLP  
+
 ![NLP](https://img.shields.io/badge/NLP-purple)
+![BERT](https://img.shields.io/badge/BERT-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
 </td>
 <td width="50%">
 
-### 🔹 Image Classification (CNN)
-- CNN architectures  
-- TensorFlow / Keras  
-- Model evaluation  
+### 💬 Sentiment Analysis using LLM (BERT)
+**Public**
 
-![Deep Learning](https://img.shields.io/badge/DeepLearning-red)
-![CNN](https://img.shields.io/badge/CNN-orange)
+An end-to-end **sentiment analysis system** that classifies text into positive, negative, or neutral sentiments.  
+Built using **BERT-based language models** to capture semantic meaning and contextual polarity.
+
+**Tech Stack:** BERT · NLP · Deep Learning  
+
+![Sentiment](https://img.shields.io/badge/Sentiment-Analysis-green)
+![NLP](https://img.shields.io/badge/NLP-purple)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
 </td>
 </tr>
@@ -94,27 +102,39 @@ who loves building intelligent systems using data, algorithms, and creativity.
 <tr>
 <td width="50%">
 
-### 🔹 Recommendation System
-- Collaborative filtering  
-- Content-based models  
+### 🧠 NLP Tools – Flask Application
+**Public**
 
-![ML](https://img.shields.io/badge/MachineLearning-green)
+A **Flask-based web application** that provides an interactive interface for multiple NLP tasks.  
+Powered by **Hugging Face Transformers**, enabling text classification, tokenization, and language understanding.
+
+**Tech Stack:** Python · Flask · Transformers  
+
+![Flask](https://img.shields.io/badge/Flask-black)
+![Python](https://img.shields.io/badge/Python-blue)
+![NLP](https://img.shields.io/badge/NLP-purple)
 
 </td>
 <td width="50%">
 
-### 🔹 Time Series Forecasting
-- Trend & seasonality  
-- Forecasting models  
+### ✍️ Text Generation using GPT-2
+**Public**
 
-![Data Science](https://img.shields.io/badge/DataScience-blue)
+An implementation of **GPT-2** for automated text generation using the Transformer architecture.  
+The project explores sequence modeling, contextual generation, and creative text synthesis.
+
+**Tech Stack:** GPT-2 · Transformers · Deep Learning  
+
+![GPT](https://img.shields.io/badge/GPT--2-red)
+![Text](https://img.shields.io/badge/Text-Generation-orange)
+![NLP](https://img.shields.io/badge/NLP-purple)
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-<i>📌 Pin these repositories on your GitHub profile for best visibility</i>
+<i>📌 These repositories are pinned to highlight hands-on work in NLP & Transformer-based models</i>
 </p>
 
 ---
