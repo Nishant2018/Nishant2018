@@ -1,116 +1,89 @@
-<h1 align="center">Hi 👋, I'm Nishant Raghuwanshi</h1>
-<h3 align="center">Data Scientist | Machine Learning & NLP Enthusiast</h3>
+<h1 align="center">Nishant Raghuwanshi</h1>
+<p align="center">
+  <strong>Data Scientist · Machine Learning · NLP</strong>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nishant2018&label=Profile%20Views&color=blueviolet&style=flat" />
-  <img src="https://img.shields.io/github/followers/Nishant2018?label=Followers&style=flat&color=blue" />
-  <img src="https://img.shields.io/github/stars/Nishant2018?label=Stars&style=flat&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=Nishant2018&color=6a5acd&style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-I’m **Nishant**, a passionate **Data Scientist** and **Machine Learning Engineer** focused on building intelligent, data-driven solutions.
-
-- 🔭 Working on **Data Science, NLP & Deep Learning**
-- 🌱 Learning **Advanced NLP, Transformers & LLMs**
-- 👯 Open to **ML / AI / NLP collaborations**
-- 💬 Ask me about **Python, ML, NLP, Data Analysis**
-- 📫 Email: **nishantraghuwanshi2018@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I love **hiking** and **experimenting with cuisines**
-
----
-
-## 🏆 GitHub Highlights
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nishant2018&theme=radical&no-frame=true&row=1&column=6" />
+I build intelligent systems using data, machine learning, and natural language processing.<br>
+Focused on clarity, scalability, and real-world impact.
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About
 
-### 💻 Programming
-<p>
+- 🔭 Working on **Data Science, NLP, and Deep Learning**
+- 🌱 Learning **Transformers, LLMs, and Advanced NLP**
+- 🤝 Open to **ML / AI collaborations**
+- 💬 Ask me about **Python, Machine Learning, NLP**
+- 📫 **nishantraghuwanshi2018@gmail.com**
+- ⚡ Enjoy hiking and exploring new cuisines
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c" />
 </p>
 
-### 📊 Data Science & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,pytorch,opencv" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,opencv" />
 </p>
 
-### 📚 Libraries
-- NumPy
-- Pandas
-- Scikit-learn
-- Matplotlib
-- Seaborn  
-- NLTK, SpaCy  
-- Hugging Face 🤗
-
-### ⚙️ Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-🔹 **Sentiment Analysis using NLP**  
-🔹 **Image Classification with CNNs**  
-🔹 **Recommendation System**  
-🔹 **Time Series Forecasting**  
-🔹 **End-to-End Machine Learning Pipelines**
-
-> 📌 *Pin your best repositories for maximum visibility.*
-
----
-
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishant2018&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant2018&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant2018&layout=compact&theme=radical&hide_border=true" width="40%" />
+  NumPy · Pandas · Scikit-learn · Matplotlib · Seaborn · NLTK · SpaCy · Hugging Face
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Selected Work
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nishant-raghuwanshi-1509a724a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.kaggle.com/endofnight17j03">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="45" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/end_of_night">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/end_of_night.17j03/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+• Sentiment Analysis using NLP <br>
+• Image Classification with CNNs <br>
+• Recommendation Systems <br>
+• Time Series Forecasting <br>
+• End-to-End ML Pipelines
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishant2018&show_icons=true&hide_border=true&theme=radical" width="46%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant2018&hide_border=true&theme=radical" width="46%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant2018&layout=compact&hide_border=true&theme=radical" width="35%" />
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nishant-raghuwanshi-1509a724a/">LinkedIn</a> ·
+  <a href="https://www.kaggle.com/endofnight17j03">Kaggle</a> ·
+  <a href="https://twitter.com/end_of_night">Twitter</a> ·
+  <a href="https://www.instagram.com/end_of_night.17j03/">Instagram</a>
 </p>
 
 ---
 
 <p align="center">
-  <em>"Without data, you're just another person with an opinion."</em><br>
-  — W. Edwards Deming
+<em>“Without data, you're just another person with an opinion.”</em><br>
+— W. Edwards Deming
 </p>
-
----
-
-⭐ **If you like my work, consider following or starring my repositories!**
