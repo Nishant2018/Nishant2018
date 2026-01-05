@@ -187,7 +187,8 @@ The project explores sequence modeling, contextual generation, and creative text
 <p align="center">
   🏔️ Hiking & Nature Walks &nbsp;&nbsp;|&nbsp;&nbsp; 🍜 Cooking & Exploring Cuisines &nbsp;&nbsp;|&nbsp;&nbsp; 🎮 Gaming & Tech Experiments &nbsp;&nbsp;|&nbsp;&nbsp; 📚 Reading ML & AI Blogs &nbsp;&nbsp;|&nbsp;&nbsp; 🎵 Music & Podcasts
 </p>
----
+
+
 
 <p align="center">
   <em>"Without data, you're just another person with an opinion."</em><br>
