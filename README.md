@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Raghuwanshi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Data+Scientist;Machine+Learning+Engineer;NLP+%7C+Deep+Learning+Enthusiast;Turning+Data+Into+Intelligence" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Data+Scientist;Machine+Learning+Engineer;NLP+%7C+Deep+Learning+Enthusiast;Turning+Data+Into+Intelligence" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ who loves building intelligent systems using data, algorithms, and creativity.
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nishant2018&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nishant2018&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -65,16 +65,56 @@ who loves building intelligent systems using data, algorithms, and creativity.
 
 ## 🚀 Featured Projects
 
-<p align="center">
-🔹 Sentiment Analysis using NLP <br>
-🔹 Image Classification with CNNs <br>
-🔹 Recommendation Systems <br>
-🔹 Time Series Forecasting <br>
-🔹 End-to-End ML Pipelines
-</p>
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🔹 Sentiment Analysis (NLP)
+- Text preprocessing  
+- ML & DL models  
+- Real-world datasets  
+
+![Python](https://img.shields.io/badge/Python-blue)
+![NLP](https://img.shields.io/badge/NLP-purple)
+
+</td>
+<td width="50%">
+
+### 🔹 Image Classification (CNN)
+- CNN architectures  
+- TensorFlow / Keras  
+- Model evaluation  
+
+![Deep Learning](https://img.shields.io/badge/DeepLearning-red)
+![CNN](https://img.shields.io/badge/CNN-orange)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔹 Recommendation System
+- Collaborative filtering  
+- Content-based models  
+
+![ML](https://img.shields.io/badge/MachineLearning-green)
+
+</td>
+<td width="50%">
+
+### 🔹 Time Series Forecasting
+- Trend & seasonality  
+- Forecasting models  
+
+![Data Science](https://img.shields.io/badge/DataScience-blue)
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-<i>📌 Pin your best repositories for maximum impact</i>
+<i>📌 Pin these repositories on your GitHub profile for best visibility</i>
 </p>
 
 ---
@@ -82,12 +122,12 @@ who loves building intelligent systems using data, algorithms, and creativity.
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishant2018&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant2018&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishant2018&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant2018&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant2018&layout=compact&theme=radical&hide_border=true" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant2018&layout=compact&theme=radical" width="38%" />
 </p>
 
 ---
@@ -117,7 +157,7 @@ who loves building intelligent systems using data, algorithms, and creativity.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Nishant2018/Nishant2018/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Nishant2018/Nishant2018/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
