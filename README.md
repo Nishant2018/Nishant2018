@@ -12,11 +12,6 @@
   <img src="https://img.shields.io/github/followers/Nishant2018?label=Followers&style=flat&color=blue" />
   <img src="https://img.shields.io/github/stars/Nishant2018?label=Stars&style=flat&color=yellow" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nishant2018&layout=compact&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishant2018&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" />
-</p>
-
 
 ---
 
@@ -185,6 +180,13 @@ The project explores sequence modeling, contextual generation, and creative text
   <img src="https://raw.githubusercontent.com/Nishant2018/Nishant2018/output/github-contribution-grid-snake.svg" />
 </p>
 
+---
+
+## 🎯 Hobbies & Interests
+
+<p align="center">
+  🏔️ Hiking & Nature Walks &nbsp;&nbsp;|&nbsp;&nbsp; 🍜 Cooking & Exploring Cuisines &nbsp;&nbsp;|&nbsp;&nbsp; 🎮 Gaming & Tech Experiments &nbsp;&nbsp;|&nbsp;&nbsp; 📚 Reading ML & AI Blogs &nbsp;&nbsp;|&nbsp;&nbsp; 🎵 Music & Podcasts
+</p>
 ---
 
 <p align="center">
