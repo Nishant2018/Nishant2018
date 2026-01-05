@@ -47,25 +47,60 @@ who loves building intelligent systems using data, algorithms, and creativity.
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c" />
-</p>
-
-### 🤖 Machine Learning & AI
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,opencv" />
-</p>
-
-### 📊 Data Science Stack
-<p align="center">
-  NumPy · Pandas · Scikit-learn · Matplotlib · Seaborn · NLTK · SpaCy · Hugging Face 🤗
-</p>
-
-### ⚙️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux" />
-</p>
+<table align="center">
+<tr>
+  <th align="center">💻 Programming Languages</th>
+  <th align="center">🤖 Machine Learning & AI</th>
+  <th align="center">📊 Data Science Stack</th>
+  <th align="center">⚙️ Tools & Platforms</th>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=python" width="40" /><br>Python
+    <br>
+    <img src="https://skillicons.dev/icons?i=cpp" width="40" /><br>C++
+    <br>
+    <img src="https://skillicons.dev/icons?i=c" width="40" /><br>C
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=tensorflow" width="40" /><br>TensorFlow
+    <br>
+    <img src="https://skillicons.dev/icons?i=pytorch" width="40" /><br>PyTorch
+    <br>
+    <img src="https://skillicons.dev/icons?i=keras" width="40" /><br>Keras
+    <br>
+    <img src="https://skillicons.dev/icons?i=opencv" width="40" /><br>OpenCV
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=numpy" width="40" /><br>NumPy
+    <br>
+    <img src="https://skillicons.dev/icons?i=pandas" width="40" /><br>Pandas
+    <br>
+    <img src="https://skillicons.dev/icons?i=scikit-learn" width="40" /><br>Scikit-learn
+    <br>
+    <img src="https://skillicons.dev/icons?i=matplotlib" width="40" /><br>Matplotlib
+    <br>
+    <img src="https://skillicons.dev/icons?i=seaborn" width="40" /><br>Seaborn
+    <br>
+    <img src="https://skillicons.dev/icons?i=nltk" width="40" /><br>NLTK
+    <br>
+    <img src="https://skillicons.dev/icons?i=spacy" width="40" /><br>SpaCy
+    <br>
+    <img src="https://skillicons.dev/icons?i=huggingface" width="40" /><br>Hugging Face
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=git" width="40" /><br>Git
+    <br>
+    <img src="https://skillicons.dev/icons?i=github" width="40" /><br>GitHub
+    <br>
+    <img src="https://skillicons.dev/icons?i=vscode" width="40" /><br>VS Code
+    <br>
+    <img src="https://skillicons.dev/icons?i=jupyter" width="40" /><br>Jupyter
+    <br>
+    <img src="https://skillicons.dev/icons?i=linux" width="40" /><br>Linux
+  </td>
+</tr>
+</table>
 
 ---
 
