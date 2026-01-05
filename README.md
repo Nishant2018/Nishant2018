@@ -33,15 +33,15 @@ who loves building intelligent systems using data, algorithms, and creativity.
 
 ## 🏆 Achievements
 
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nishant2018&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p> -->
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nishant2018&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p> 
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Commits-500-green" />
   <img src="https://img.shields.io/badge/Repositories-15-blue" />
   <img src="https://img.shields.io/badge/Followers-30-purple" />
   <img src="https://img.shields.io/badge/Stars-50-yellow" />
-</p>
+</p> -->
 
 ---
 
